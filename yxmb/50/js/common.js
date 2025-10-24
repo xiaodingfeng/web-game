@@ -16,7 +16,7 @@ var btGame;
 		,getConcern: function(){
 			return "http://mp.weixin.qq.com/s?__biz=MzA4NTk2MzgxNg==&mid=200512824&idx=1&sn=fb2c29f97e981c8eb672d9e733750b96#rd";
 		}
-		,appId: "wxf91bab01569cc168" // gh_f1ed7b95f79e
+		,appId: ""
 	};
 	
 	// 先用着一个很搓，很有效的方式~
